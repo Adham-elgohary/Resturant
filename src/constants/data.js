@@ -3,27 +3,27 @@ import images from './images';
 const chef = [
   {
     title: 'Grilled Turkish bread',
-    price: "Hors D'Oeuvre",
+    item: "Hors D'Oeuvre",
     tags: 'Chickpeas | Chilli Olive Oil ',
   },
   {
     title: 'Thai Pumpkin Soup',
-    price: 'Appetizer',
+    item: 'Appetizer',
     tags: 'Galangal | Lemongrass | Kaffir Lime Leave | Coconut Cream',
   },
   {
     title: 'Coral Coast Barramundi',
-    price: 'Salad',
+    item: 'Salad',
     tags: 'Hummus | Mint Yoghurt | Pomegranate | Herb Salad',
   },
   {
     title: 'Black Angus Beef Fillet',
-    price: 'Main Course',
+    item: 'Main Course',
     tags: 'Mushroom Crust | Paris Mash | Fried Egg Yolk | Shiraz Essence',
   },
   {
     title: 'Nutella Panna Cotta',
-    price: 'Dessert',
+    item: 'Dessert',
     tags: 'Torched Marshmallows | Raspberry Dressing | Banana Brûlée',
   },
 ];
