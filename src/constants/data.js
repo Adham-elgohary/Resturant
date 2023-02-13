@@ -1,6 +1,6 @@
 import images from './images';
 
-const chef = [
+export const chef = [
   {
     title: 'Grilled Turkish bread',
     price: "Hors D'Oeuvre",
@@ -28,7 +28,7 @@ const chef = [
   },
 ];
 
-const cocktails = [
+export const cocktails = [
   {
     title: 'Spicy Watermelon Mint Agua Fresca',
     price: '$20',
@@ -56,7 +56,7 @@ const cocktails = [
   },
 ];
 
-const awards = [
+export const awards = [
   {
     imgUrl: images.award02,
     title: 'Bib Gourmond',
@@ -79,4 +79,4 @@ const awards = [
   },
 ];
 
-export default { chef, cocktails, awards };
+// export default { chef, cocktails, awards };
